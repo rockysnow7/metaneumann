@@ -1,0 +1,10 @@
+lha 8
+svr 0
+lha 9
+svr 1
+jmp 1
+sub 0
+out 0
+hlt 0
+5
+6
