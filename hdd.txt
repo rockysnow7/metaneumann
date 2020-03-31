@@ -1,0 +1,13 @@
+lha 10
+svr 0
+lha 11
+svr 1
+lha 12
+svr 2
+add 2
+jmc 1
+jmp 0
+hlt 0
+5
+9
+1
