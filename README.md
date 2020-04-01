@@ -3,6 +3,11 @@ This is an emulator of a Von Neumann computer with its own assembly language whi
 It was written in Python.
 
 
+## Running Files
+To run a program, select Option 1 from the main menu, and then the program you want to run (it comes with a bunch of examples).
+You can write programs using the language described in the next section. **They must be saved in the 'hdds' folder.**
+
+
 ## The Language
 * **nop** - no operation
 * **out** - output the contents of Register A
