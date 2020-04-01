@@ -31,7 +31,7 @@ def execute(c):
 
     elif l[0] == 1:  # out
         outed = True
-        print(f"{red}{a}{reset}")
+        print(f"{red}Output: {a}{reset}")
 
     elif l[0] == 2:  # hlt
         br = True
