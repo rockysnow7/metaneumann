@@ -1,5 +1,5 @@
 # metaneumann
-This is an emulator of a Von Neumann computer with its own assembly language which can be used to program it. The contents of all registers, RAM, and the hard drive can be viewed while any assembly language programs run in the "debug view".
+This is a model of a Von Neumann computer with its own assembly language which can be used to program it. The contents of all registers, RAM, and the hard drive can be viewed while any assembly language programs run in the "debug view".
 It was written in Python.
 
 
